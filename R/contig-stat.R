@@ -96,7 +96,9 @@ summarise_assemlies <- function(dirPath, fileExt = 'fasta'){
 
 
 
+#-----------------------------------------#
+# EXAMPLE HOW TO RUN IT
+
 
 assemblies.summary <- summarise_assemlies(dirPath = '~/DATA/EukGenome_database/Labarre2021/12430790/',
                     fileExt = 'fasta')
-
